@@ -1,0 +1,29 @@
+/*@ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ **
+ **   This file is part of flex2D   
+ **
+ **    Copyright (c) 2023
+ **        Laetitia Le Pourhiet [laetitia.le_pourhiet@sorbonne-universite.fr]
+ **
+ **    flex2d  is free software: you can redistribute it and/or modify
+ **    it under the terms of the GNU General Public License as published
+ **    by the Free Software Foundation, either version 3 of the License,
+ **    or (at your option) any later version.
+ **
+ **    flex2d is distributed in the hope that it will be useful,
+ **    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ **    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ **    See the GNU General Public License for more details.
+ **
+ **    You should have received a copy of the GNU General Public License
+ **    along with flex2d. If not, see <http://www.gnu.org/licenses/>.
+ **
+ **
+ **    Contributors:
+ **    Laetitia Le Pourhiet [laetitia.le_pourhiet@sorbonne-universite.fr]
+ **
+ **
+ **    Contact:
+ **    Laetitia Le Pourhiet [laetitia.le_pourhiet@sorbonne-universite.fr]
+ **
+ ** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ @*
